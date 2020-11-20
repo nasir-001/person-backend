@@ -1,2 +1,3 @@
-https://persons-backends.herokuapp.com/info
-https://persons-backends.herokuapp.com/api/persons
+# https://persons-backends.herokuapp.com/info
+
+# https://persons-backends.herokuapp.com/api/persons
